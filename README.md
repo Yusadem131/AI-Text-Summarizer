@@ -51,8 +51,22 @@ S2. structure of the app
 # Quest 3: Code
 1. Understand the HTML/CSS
 2. Understand the server
-3. Add a /summarize endpoint to the server
-4. Make the frontend interactive
+3. Add a /summarize endpoint to the server by following the milestones:
+Milestone 1 - Add a /summarize endpoint in index.js
+Milestone 2 - Make a summarizeText() function
+Milestone 3 - Understand the Postman request to call Hugging Face
+Milestone 4 - Get a Hugging Face access token
+Milestone 5 - Make an authorized call to Hugging Face in Postman
+Milestone 6 - Generate code in Postman to call Hugging Face in our app
+Milestone 7 - Modify the code snippet for our app
+Milestone 8 - Finish the POST /summarize endpoint
+4. Make the frontend interactive by following the following milestones
+Milestone 1 - Creating references to each interactive HTML element
+Milestone 2 - Adding event listeners
+Milestone 3 - Write a function to validate text length
+Milestone 4 - Add a submitData() function to get summarized text
+Milestone 5 - Modify the code snippet
+
 5. Run the app!
 6. Extend your project
 
